@@ -34,3 +34,9 @@ html {
   box-shadow: 0 .1em .3em #000;
   color: #555;
 }
+
+li {
+  text-decoration: none;
+  display: inline-block;
+  list-style-type: none;
+}
